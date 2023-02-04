@@ -1,4 +1,0 @@
-extractor_name: efficientnet_b0
-lr: 0.01
-margin: 2
-momentum: 0.99
